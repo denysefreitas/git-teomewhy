@@ -9,3 +9,12 @@ pwd: imprime o diretório de trabalho atual (caminho]);
 mkdir: cria um novo diretório;
 
 cat: imprime todas as informações presentes no arquivo;
+
+rm: remove arquivo ou diretório;
+	-r: apaga arquivos e subdiretórios; 
+	-f: forçar a remoção (sem necessidade de confirmação);
+	-rf: junta as funcionalidades de ambos os comandos;
+
+nano: permite a edição de arquivos de texto no próprio terminal;
+	ctrl + o: write out (salvar);
+	crtl + x: exit (sair);

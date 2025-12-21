@@ -1,4 +1,5 @@
 git init .: cria um repositório git (.git) na pasta atual;
+git init <pasta>: cria um repositório git (.git) na pasta selecionada;
 
 git status: analisa o estado atual de todos os arquivos;
 
@@ -10,3 +11,4 @@ git config: atualiza as configurações git;
 	-- global user.email: adiciona um e-mail global (todas as modificações, salvo alterações de e-mail feitas localmente, serão vinculadas a este e-mail);
 	-- global user.name: adiciona um nome global (todas as modificações, salvo alterações de nome localmente, serão vinculadas a este nome.
  
+git log: exibe o histórico de commits num repositório git;

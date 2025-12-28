@@ -3,7 +3,7 @@ Esse arquivo contém os comandos secundários do git.
 git diff: usados para saber quais foram as alterações específicas;
 git reset <arquivo>: altera o estado do arquivo (ctrl + z do git add);
 
-git checkout -b <nova_branch>: cria uma nova branch e altera para a que foi criada;
-git branch: exibe a branch atual;
-git checkout <branch>: altera a branch atual;
-git merge <branch2>: adiciona as alterações da branch2 na branch atual (mescla);
+git checkout -b <nova_branch>: cria uma nova branch e altera para aquela que foi criada;
+git branch: exibe a branch atual do usuário;
+git checkout <branch>: altera a branch atual para aquela que foi escolhida;
+git merge <nova_branch>: adiciona as alterações da branch2 na branch atual (mescla);

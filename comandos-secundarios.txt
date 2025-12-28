@@ -6,3 +6,4 @@ git reset <arquivo>: altera o estado do arquivo (ctrl + z do git add);
 git checkout -b <nova_branch>: cria uma nova branch e altera para a que foi criada;
 git branch: exibe a branch atual;
 git checkout <branch>: altera a branch atual;
+git merge <branch2>: adiciona as alterações da branch2 na branch atual (mescla);

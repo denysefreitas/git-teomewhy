@@ -1,0 +1,14 @@
+(28/12/2025, 20:05) O objetivo deste arquivo é testar git push para diferentes branchs. Ainda não fiz o git pull; o teste é para ver se, mesmo não tendo no repositório local, eu consigo commitar no remoto. 
+
+Retorno com as considerações.
+
+(28/12/2025) Como esperado, não funcionou, pois a branch não existe no repositório local. A mensagem do git bash foi a seguinte: 
+
+ ! [rejected]        sec01 -> sec01 (non-fast-forward)
+error: failed to push some refs to 'https://github.com/denysefreitas/git-teomewhy.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Utilizei o git push --help.

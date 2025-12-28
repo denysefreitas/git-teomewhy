@@ -1,2 +1,6 @@
-\# Curso TMW Git \& GitHub para iniciantes 2025
+\# Curso TMW Git \& GitHub 2025
+
+
+
+O curso em questão é destinado para iniciantes em Git \& GitHub; inicialmente, usa-se o git bash e, a posteriori, GitFlow e VS code.
 

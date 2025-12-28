@@ -2,25 +2,22 @@
 
 
 
-**ls**: lista arquivos;
-
-**ls** **-a**: lista arquivos ocultos;
-
-
-
-**cd**: altera o diretório;
-
-**cd ..**: volta para o diretório imediatamente anterior;
+* **ls**: lista arquivos;
+* **ls** **-a**: lista arquivos ocultos;
 
 
 
-**pwd**: imprime o diretório de trabalho atual (caminho);
+* **cd**: altera o diretório;
+* **cd ..**: volta para o diretório imediatamente anterior;
 
 
 
-**mkdir**: cria um novo diretório;
+* **pwd**: imprime o diretório de trabalho atual (caminho);
 
 
 
-**cat**: lista todo o conteúdo do arquivo/diretório;
+* **mkdir**: cria um novo diretório;
 
+
+
+* **cat**: lista todo o conteúdo do arquivo/diretório;

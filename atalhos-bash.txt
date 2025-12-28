@@ -1,0 +1,2 @@
+ctrl + l: limpar todo o terminal
+

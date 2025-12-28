@@ -18,3 +18,5 @@ rm: remove arquivo ou diretório;
 nano: permite a edição de arquivos de texto no próprio terminal;
 	ctrl + o: write out (salvar);
 	crtl + x: exit (sair);
+
+touch: cria um arquivo na extensão escolhida (ex: README.md)

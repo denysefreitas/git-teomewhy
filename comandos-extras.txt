@@ -1,0 +1,8 @@
+git fetch: baixa todas as atualizações do repositório remoto (origin), mas não faz merge com o branch local;
+
+git push origin --delete <branch>: deleta a branch no repositório remoto; não precisa de confirmação e atualiza de forma quase automática no gitHub;
+
+git branch -r: lista das branches remotas;
+
+git checkout -b branch origin/branch: faz uma cópia da branch remota para a branch local a ser criada; 
+	obs: antes de usar esse comando, é necessário fazer um 'git fetch';

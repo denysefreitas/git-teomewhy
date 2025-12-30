@@ -12,3 +12,9 @@ hint: before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Utilizei o git push --help.
+
+(29/12/2025, 21:49) Uma alternativa de solução é:
+1. git fetch
+2. git checkou -b branch origin/branch
+
+Desse modo, você consegue criar uma cópia da branch do repositório remoto na sua máquina, isto é, no repositório local. Após isso, basta realizar o commit normalmente.

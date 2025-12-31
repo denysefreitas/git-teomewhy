@@ -9,6 +9,6 @@ git commit -m "Mensagem": cria um commit e adiciona uma mensagem a ele;
 
 git config: atualiza as configurações git;
 	-- global user.email: adiciona um e-mail global (todas as modificações, salvo alterações de e-mail feitas localmente, serão vinculadas a este e-mail);
-	-- global user.name: adiciona um nome global (todas as modificações, salvo alterações de nome localmente, serão vinculadas a este nome.
+	-- global user.name: adiciona um nome global (todas as modificações, salvo alterações de nome localmente, serão vinculadas a este nome.)
  
 git log: exibe o histórico de commits num repositório git;

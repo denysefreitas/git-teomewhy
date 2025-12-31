@@ -1,2 +1,5 @@
 ctrl + l: limpar todo o terminal
 
+(nano) ctrl + o: write out (salvar)
+(nano) crtl + x: exit (sair)
+

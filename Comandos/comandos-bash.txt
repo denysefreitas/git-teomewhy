@@ -1,22 +1,20 @@
-ls: lista arquivos;
-ls -a: lista arquivos ocultos;
+ls: lista arquivos
+ls -a: lista arquivos ocultos
 
-cd: altera o diretório;
-cd ..: volta para o diretório imediatamente anterior;
+cd: altera o diretório
+cd ..: volta para o diretório imediatamente anterior
 
-pwd: imprime o diretório de trabalho atual (caminho]);
+pwd: imprime o diretório de trabalho atual (caminho)
 
-mkdir: cria um novo diretório;
+mkdir: cria um novo diretório
 
-cat: imprime todas as informações presentes no arquivo;
+cat: imprime todas as informações presentes no arquivo
 
-rm: remove arquivo ou diretório;
-	-r: apaga arquivos e subdiretórios; 
-	-f: forçar a remoção (sem necessidade de confirmação);
-	-rf: junta as funcionalidades de ambos os comandos;
+rm: remove arquivo ou diretório
+	-r: apaga arquivos e subdiretórios
+	-f: forçar a remoção (sem necessidade de confirmação)
+	-rf: junta as funcionalidades de ambos os comandos
 
-nano: permite a edição de arquivos de texto no próprio terminal;
-	ctrl + o: write out (salvar);
-	crtl + x: exit (sair);
+nano: permite a edição de arquivos de texto no próprio terminal
 
 touch: cria um arquivo na extensão escolhida (ex: README.md)

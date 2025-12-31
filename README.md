@@ -28,6 +28,8 @@ O curso em questão é destinado para iniciantes em Git \& GitHub; inicialmente,
 12. git fetch
 13. git push
 14. git pull
+15. git ignore
+16. git keep
 
 ## Atalhos
 ### Atalhos Bash

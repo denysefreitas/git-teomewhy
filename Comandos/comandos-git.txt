@@ -1,14 +1,18 @@
-git init .: cria um repositório git (.git) na pasta atual;
-git init <pasta>: cria um repositório git (.git) na pasta selecionada;
+git init .: cria um repositório git (.git) na pasta atual
+git init <pasta>: cria um repositório git (.git) na pasta selecionada
 
-git status: analisa o estado atual de todos os arquivos;
+git status: analisa o estado atual de todos os arquivos
 
-git add <arquivo>: torna o arquivo monitorado (Agora, ele pode fazer parte de um commit);
+git add <arquivo>: torna o arquivo monitorado (Agora, ele pode fazer parte de um commit)
 
-git commit -m "Mensagem": cria um commit e adiciona uma mensagem a ele;
+git commit -m "Mensagem": cria um commit e adiciona uma mensagem a ele
 
-git config: atualiza as configurações git;
-	-- global user.email: adiciona um e-mail global (todas as modificações, salvo alterações de e-mail feitas localmente, serão vinculadas a este e-mail);
+git config: atualiza as configurações git
+	-- global user.email: adiciona um e-mail global (todas as modificações, salvo alterações de e-mail feitas localmente, serão vinculadas a este e-mail)
 	-- global user.name: adiciona um nome global (todas as modificações, salvo alterações de nome localmente, serão vinculadas a este nome.)
  
-git log: exibe o histórico de commits num repositório git;
+git log: exibe o histórico de commits num repositório git
+
+git ignore: define quais arquivos (intencionalmente) não serão rastreados
+
+git keep: permite que diretórios vazios sejam versionados

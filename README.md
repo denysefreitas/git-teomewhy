@@ -2,6 +2,8 @@
 
 O curso em questão é destinado para iniciantes em Git \& GitHub; inicialmente, usa-se o git bash e, a posteriori, GitFlow e VS code.
 
+Foram acrescidas informações que a autora, Denyse Freitas, considerou relevante e não constavam - de forma parcial ou integral - no escopo do curso.
+
 ## Comandos
 ### Comandos Bash
 1. ls

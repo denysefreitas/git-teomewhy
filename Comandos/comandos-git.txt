@@ -16,3 +16,7 @@ git log: exibe o histórico de commits num repositório git
 git ignore: define quais arquivos (intencionalmente) não serão rastreados
 
 git keep: permite que diretórios vazios sejam versionados
+
+git switch: comando novo usado para separar as funções feitas pelo git checkout
+	git switch <branch>: troca para uma branch local existente ou cria uma branch local rastreadora de uma remota (correspondente ao git checkout <branch>)
+	gt switch -c <branch>: cria uma branch local e muda para ela (correspondente ao git checkout -b <branch>)

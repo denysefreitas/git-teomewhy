@@ -30,7 +30,6 @@ O curso em questão é destinado para iniciantes em Git \& GitHub; inicialmente,
 14. git pull
 15. git ignore
 16. git keep
-17. git switch
 
 ## Atalhos
 ### Atalhos Bash

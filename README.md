@@ -32,6 +32,7 @@ Foram acrescidas informações que a autora, Denyse Freitas, considerou relevant
 14. git pull
 15. git ignore
 16. git keep
+17. git switch
 
 ## Atalhos
 ### Atalhos Bash
